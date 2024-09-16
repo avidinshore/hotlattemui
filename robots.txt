@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://avidinshore.github.io/hotlattemui/sitemap.xml
